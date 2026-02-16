@@ -18,6 +18,7 @@ title: "Architecture Design Analysis"
 | [agent-and-tools](./agent-and-tools.md) | Agent 与工具：执行模型、Skills、子 Agent、审批 |
 | [hooks-and-extensibility](./hooks-and-extensibility.md) | Hooks 与扩展：Hook 机制、插件系统、配置扩展 |
 | [gateway-core](./gateway-core.md) | Gateway 核心：进程模型、WebSocket、启动流程 |
+| [opencode-document-assistant-design](./opencode-document-assistant-design.md) | 基于 OpenCode 的智能文档助手设计：主动干活、记忆、外部聊天集成 |
 
 ## 核心设计思想摘要
 

@@ -925,7 +925,8 @@
                   "architecture/session-and-routing",
                   "architecture/agent-and-tools",
                   "architecture/hooks-and-extensibility",
-                  "architecture/gateway-core"
+                  "architecture/gateway-core",
+                  "architecture/opencode-document-assistant-design"
                 ]
               },
               {
