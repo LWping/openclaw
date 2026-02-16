@@ -916,6 +916,20 @@
             "tab": "Agents",
             "groups": [
               {
+                "group": "Design reference",
+                "pages": [
+                  "architecture/README",
+                  "architecture/channel-integration",
+                  "architecture/memory-design",
+                  "architecture/proactive-execution",
+                  "architecture/session-and-routing",
+                  "architecture/agent-and-tools",
+                  "architecture/hooks-and-extensibility",
+                  "architecture/gateway-core",
+                  "architecture/opencode-document-assistant-design"
+                ]
+              },
+              {
                 "group": "Fundamentals",
                 "pages": [
                   "concepts/architecture",
